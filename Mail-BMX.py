@@ -85,15 +85,15 @@ def main():
 \033[1;33m                                      Powered by \033[1;94mMahin Ahmed
 ____________________________________________________________
    \033[1;97mCreator \033[1;94m: \033[1;91m Mahin Ahmed 
-   \033[1;97mStatus  \033[1;94m: \033[1;92m I love my hetars
-   \033[1;97mTools   \033[1;94m: \033[1;94m Temporary Mail
-   \033[1;94mTEAM    \033[1;93m: \033[0;92m BMX
+   \033[1;97mStatus  \033[1;91m: \033[1;92m I love my hetars
+   \033[1;97mTools   \033[1;92m: \033[1;94m Temporary Mail
+   \033[1;97mTEAM    \033[1;93m: \033[0;92m BMX
 
 ____________________________________________________________
 
-\033[1;97m[\033[1;94m01\033[1;97m] SET EMAIL RANDOM 
-\033[1;97m[\033[1;94m02\033[1;97m] SET EMAIL CUSTOM
-\033[1;97m[\033[1;94m03\033[1;97m] Black Mafia Team
+\033[1;97m[\033[1;94m01\033[1;92m] SET EMAIL RANDOM 
+\033[1;97m[\033[1;94m02\033[1;93m] SET EMAIL CUSTOM
+\033[1;97m[\033[1;94m03\033[1;95m] Black Mafia Team
 \033[1;97m[\033[1;94m04\033[1;97m] EXIT
 """)
 
